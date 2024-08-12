@@ -1,0 +1,6 @@
+CREATE TABLE PRODUTOS (
+    ID INT(5) UNIQUE,
+    NOME VARCHAR(30),
+    PREÇO DOUBLE(6)  
+  
+);
